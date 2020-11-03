@@ -1,0 +1,4 @@
+#!/bin/ash
+
+
+adduser xtecuan
