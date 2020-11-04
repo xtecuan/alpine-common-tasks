@@ -1,0 +1,6 @@
+/dev/vg0/lv_root	/	ext4	rw,relatime 0 1
+UUID=19a3ebfc-de79-48e2-afb6-6e81e9c8675c	/boot	ext4	rw,relatime 0 2
+/dev/vg0/lv_swap	swap	swap	defaults	0 0
+/dev/cdrom	/media/cdrom	iso9660	noauto,ro 0 0
+/dev/usbdisk	/media/usb	vfat	noauto	0 0
+#192.168.0.100:/pgdata	/opt/docker_shares/data	nfs	rw,auto,nfsvers=3	0 0
